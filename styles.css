@@ -1,0 +1,26 @@
+
+body {
+    color: aliceblue;
+}
+h1 {
+    text-align: center;
+    margin-left: 5%;
+}
+div {
+    text-decoration: none;
+    color: aliceblue;
+    background: none;
+    text-align: center;
+    align-content: center;
+}
+
+img { 
+    margin-top: 2%;
+    margin-left: 5%;
+    width: 100px;
+    height: 90px;
+    border-radius: 50%;
+}
+.iniinput [type=text]:focus{outline: none;}
+.iniinput [type=text]:focus{outline: none;}
+
